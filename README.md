@@ -9,7 +9,11 @@ Posee registro e inicio de sesion junto con una interfaz que muestra el listado 
 
 
 ## Acerca de la Implementacion
-Es un proyecto web realizado en el IDE Intellij IDEA. Se utilizo Springboot y Hibernate para el manejo de la base de datos.
+Es un proyecto web realizado en el <code>IDE Intellij IDEA</code>. Se utilizo <code>Springboot</code> y <code>Hibernate</code> para el manejo de la base de datos.
+<br>
+Para dar seguridad a los usuarios se cifraron las contraseñas utilizando <code>Argon2</code>.
+<br>
+Para el manejo de sesiones se utilizo <code>JWT</code>.
 
 ## Imagenes
 <div align="center">
